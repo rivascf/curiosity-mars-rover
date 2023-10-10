@@ -1,7 +1,7 @@
 # A Gazebo-ROS simulation of Curiosity Mars Rover v1.0 
 
-- *From The Construct*
-- **Source Caode:** [TheConstructCore](https://bitbucket.org/theconstructcore/)/[Public Simulations](https://bitbucket.org/theconstructcore/workspace/projects/PS)/[curiosity_mars_rover](https://bitbucket.org/theconstructcore/curiosity_mars_rover/src/master/)
+- *From:* [The Construct](https://www.theconstructsim.com/)
+  - **Source Code:** [TheConstructCore](https://bitbucket.org/theconstructcore/)/[Public Simulations](https://bitbucket.org/theconstructcore/workspace/projects/PS)/[curiosity_mars_rover](https://bitbucket.org/theconstructcore/curiosity_mars_rover/src/master/)
 
 ## Launch the simulation
 
